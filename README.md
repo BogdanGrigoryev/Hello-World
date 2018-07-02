@@ -1,2 +1,4 @@
 # Hello-World
-first program
+ Hi all!!
+ its my first visits in gitHab!
+sorry for my English!
